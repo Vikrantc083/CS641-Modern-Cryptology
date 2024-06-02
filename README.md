@@ -21,6 +21,5 @@ The cryptosystem used in this level is 6 round DES[Data Encryption Standard].
 The cryptosytem used in this level is **EAEAE attack** which is a weak form of SASAS(Substitution and Symmetric Algorithm Substitution) attack.
 
 ## NOTE 
-FULL MARKS IN ALL ASSIGNMENTS😃
-
+FULL MARKS IN ALL ASSIGNMENTS😎
 
