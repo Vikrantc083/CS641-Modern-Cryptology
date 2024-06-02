@@ -1,0 +1,3 @@
+The cryptosystem used in this level is 6 round DES[Data Encryption Standard].
+
+Actually the spirit told us that the cyptosystem used in this level is either 4 round DES or 6 round DES and it is highly unlikely that it is 10 round DES as per the spirit.So we proceded by checking for 6 round DES and indeed the cryptosystem came out to be 6 round DES as we were able to get through the level.

@@ -1,0 +1,9 @@
+The CryptoSystem used in this level is Substitution Cipher .The Substitution cipher used in this level is Monoalphabetic Substitution Cipher because here we are replacing each letter/digits/punctuation marks with only one character.
+
+In  Monoalphabetic substitution cipher what happens is a letter is always substituted by a particular letter only.
+For example: Suppose ‘a’ can be enciphered as ‘d’ everywhere then this is monoalphabetic cipher.
+
+ In  Polyalphabetic substitution cipher what happens is a letter is substituted by different different letter.
+For example: For example, ‘a’ can be enciphered as ‘d’ in the starting of the text, but as ‘n’ at the middle.
+
+In this Level we have Substitution Cipher(Mono-Alphabetic)

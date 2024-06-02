@@ -1,0 +1,18 @@
+The cryptosystem used in this level is Monoalphabetic Substitution Cipher along with Permutation(Transposition) Cipher with the block size of length 5.
+
+In  Monoalphabetic substitution cipher what happens is a letter is always substituted by a particular letter only.
+For example: Suppose ‘a’ can be enciphered as ‘d’ everywhere then this is monoalphabetic cipher.
+
+ In  Polyalphabetic substitution cipher what happens is a letter is substituted by different different letter.
+For example: For example, ‘a’ can be enciphered as ‘d’ in the starting of the text, but as ‘n’ at the middle.
+
+In Permutation cipher, we just permute/rearrange the characters present in a block.The permutation is given by a key.
+
+In this level the Permutation key is:
+CipherText: 12345
+Permutation : 45213
+Decryption Key
+
+This means that 1st letter of CipherText goes to the 4th letter of plaintext and 2nd letter of CipherText goes to 5th letter of plaintext and  so on..
+
+In this Level we have used Substitution Cipher along with the Permutation Cipher and here the block size is 5.

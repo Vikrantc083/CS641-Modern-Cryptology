@@ -1,0 +1,12 @@
+go
+enter
+pick
+c
+c
+back
+give
+back
+back
+thrnxxtzy
+read
+the_magic_of_wand
